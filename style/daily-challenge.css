@@ -14,13 +14,27 @@ img {
   width: 200px;
   height: 200px;
   border-radius: 100px;
-  margin: -100px 0 0 0;  /*내가*/
+  margin: -134px 0 0 0;  /*내가*/
   border: 5px solid rgb(44, 44, 44); /*내가*/
 
 }
 
+h1{
+  font-size: 30px;
+  color: rgb(31, 25, 25);
+}
+
+a{
+  color: rgb(73, 29, 50);
+}
+
+span { /*내가*/
+  color: rgb(66, 2, 2);
+  
+}
+
 #todays-challenge {
-  color: rgb(170, 96, 83);
+  color: rgb(75, 59, 59);
   font-weight: bold;
   font-size: 52px;
 }
@@ -33,8 +47,5 @@ img {
  대체 인라인, 비대체인라인
  */
 
-span { /*내가*/
-  color: rgb(167, 1, 78);
-  
-}
+
 
